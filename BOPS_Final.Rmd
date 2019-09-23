@@ -1,5 +1,4 @@
 ```{r}
-# You should generally clear the working space at the start of every R session
 rm(list = ls())
 
 # Set the directory
